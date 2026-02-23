@@ -26,3 +26,6 @@ This project addresses the "bottom line" of e-commerce by identifying why custom
 ## 📂 Project Structure
 * `CustomerChurnAndRetentionModel.ipynb`: Full Python code for cleaning, modeling, and visualization.
 * `requirements.txt`: List of dependencies.
+
+
+<img width="984" height="584" alt="image" src="https://github.com/user-attachments/assets/3a092dd8-199b-4077-a72c-281ab7e9184a" />
